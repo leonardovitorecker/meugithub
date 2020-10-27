@@ -1,2 +1,2 @@
 este arquivo é para teste
-eee gitignore
+eee  dgfg gitignore
